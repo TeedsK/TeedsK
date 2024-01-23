@@ -4,10 +4,9 @@ I'm a Computer Scientist currently working at the [University of Utah](https://w
 
 ## About Me
 
-- 🎓 I'm pursuing a Bachelor of Science in Computer Science.
-- 🌱 I’m currently learning more about Artificial Intelligence and Machine Learning.
-- 💬 Ask me about anything related to tech, I am happy to help.
-- 📫 How to reach me: [ttkremer@gmail.com](mailto:ttkremer@gmail.com)
+- I'm pursuing a Bachelor of Science in Computer Science.
+- Ask me about anything related to tech, I am happy to help.
+- How to reach me: [ttkremer@gmail.com](mailto:ttkremer@gmail.com)
 
 ## Where to find me:
 
